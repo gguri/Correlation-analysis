@@ -82,4 +82,3 @@ confusionMatrix(senti.elastic.b, mobile$sentiment)
 confusionMatrix(senti.lasso.b, mobile$sentiment)
 
 
-
